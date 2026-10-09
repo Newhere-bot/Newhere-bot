@@ -19,7 +19,6 @@
   <a href="https://leetcode.com/u/sujal-diwakar/">
     <img src="https://img.shields.io/badge/LeetCode-sujal--diwakar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
   </a>
-  <img src="https://img.shields.io/badge/OS-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
 </p>
 
 </div>
@@ -102,14 +101,6 @@ Track my problem-solving practice and contest progress on LeetCode.
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sujal-diwakar?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode contest performance" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sujal-diwakar?theme=dark&font=JetBrains%20Mono&ext=activity" alt="Recent LeetCode submission activity" width="500" />
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/sujal-diwakar/">
     <img src="https://img.shields.io/badge/LeetCode-View%20Full%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode profile" />
   </a>
@@ -154,15 +145,19 @@ Track my problem-solving practice and contest progress on LeetCode.
   <a href="https://github.com/Newhere-bot">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/sujal-diwakar/">
-    <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://www.linkedin.com/in/sujal-diwakar-31608a254/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Add verified LinkedIn, email, and portfolio links here. -->
+  <a href="https://leetcode.com/u/sujal-diwakar/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:sujaldiwakar18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+  <!-- Add verified LinkedIn, email, and portfolio links here. -->
 
 <div align="center">
-
-### 💬 Random Developer Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
 
