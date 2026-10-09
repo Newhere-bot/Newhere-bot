@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<!--
+<!--
   GitHub Profile README
   Repository: Newhere-bot/Newhere-bot
   Keep project descriptions and social links accurate and up to date.
@@ -164,13 +162,10 @@ Track my problem-solving practice and contest progress on LeetCode.
 
 <div align="center">
 
-### Build consistently. Learn deeply. Ship useful things. 🚀
+### 💬 Random Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
 
 <img src="https://komarev.com/ghpvc/?username=Newhere-bot&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile views" />
 
 </div>
-'''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path} ({len(readme)} characters)")
