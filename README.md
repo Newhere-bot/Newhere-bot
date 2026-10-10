@@ -88,8 +88,6 @@ Exploring practical software engineering through backend development and applica
 - **Focus:** Application development and software engineering
 - **Repository:** [Add the PlaceHub repository link](https://github.com/Newhere-bot)
 
-> Update these summaries to match the current implementation. Replace the placeholder repository links with the exact repositories, and list only technologies and features that the projects actually use.
-
 ## 🧩 LeetCode Progress
 
 Track my problem-solving practice and contest progress on LeetCode.
